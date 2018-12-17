@@ -1,0 +1,26 @@
+{
+  "name": "test-rigoberto-alcantar",
+  "version": "1.0.0",
+  "description": "This is a code challenge to EasyLex by Rigoberto Alcantar Aguilar.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RigoLennon/test-rigoberto-alcantar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RigoLennon/test-rigoberto-alcantar/issues"
+  },
+  "homepage": "https://github.com/RigoLennon/test-rigoberto-alcantar#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.8"
+  }
+}
